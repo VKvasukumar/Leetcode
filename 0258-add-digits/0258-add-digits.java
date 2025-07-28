@@ -7,6 +7,5 @@ class Solution {
             return 9;
         }
         return num%9;
-
     }
 }
