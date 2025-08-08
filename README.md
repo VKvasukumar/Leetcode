@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VKvasukumar/Leetcode/tree/master/0258-add-digits) |
+| [3226-minimum-number-game](https://github.com/VKvasukumar/Leetcode/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VKvasukumar/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VKvasukumar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3226-minimum-number-game](https://github.com/VKvasukumar/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VKvasukumar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/VKvasukumar/Leetcode/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/VKvasukumar/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
