@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VKvasukumar/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VKvasukumar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VKvasukumar/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/VKvasukumar/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/VKvasukumar/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
