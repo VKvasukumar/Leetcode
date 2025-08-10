@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/VKvasukumar/Leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/VKvasukumar/Leetcode/tree/master/0258-add-digits) |
+| [1610-xor-operation-in-an-array](https://github.com/VKvasukumar/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/VKvasukumar/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/VKvasukumar/Leetcode/tree/master/2752-sum-multiples) |
 ## Simulation
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/VKvasukumar/Leetcode/tree/master/3226-minimum-number-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/VKvasukumar/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
