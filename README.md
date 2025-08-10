@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VKvasukumar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0742-to-lower-case](https://github.com/VKvasukumar/Leetcode/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/VKvasukumar/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VKvasukumar/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Queue
